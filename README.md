@@ -1,5 +1,3 @@
----
-
 ### 📜 **README.md for SPC Node API**
 ```markdown
 # SPC Node API 🚀
