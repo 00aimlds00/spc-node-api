@@ -1,5 +1,3 @@
-Of course! 🚀 Here’s a fresh **README.md** for your SPC Node API project. This version includes **installation steps, API usage, Docker deployment, CI/CD setup, and contribution guidelines**—all in a clean, professional format.
-
 ---
 
 ### 📜 **README.md for SPC Node API**
